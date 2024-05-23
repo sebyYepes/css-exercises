@@ -1,0 +1,16 @@
+.one{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    
+}
+
+.two{
+    background-color: yellow;
+    
+}
+
+.one
+.two {
+    font-size: 28px;
+}
