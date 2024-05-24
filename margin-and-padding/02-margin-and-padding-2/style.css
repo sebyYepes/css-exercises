@@ -24,8 +24,8 @@ body {
 
 .content {
   background: #e3f4ff;
-  margin: 8px;
-  padding: 10px;
+  margin-bottom: 8px;
+  padding: 16px 1px;
 }
 
 .button-container {
