@@ -5,6 +5,7 @@ body {
 
 .card {
   background: white;
+  width:400px;
   margin: 16px auto;
   margin-top: 0;
   margin-bottom: 8px;
@@ -13,7 +14,6 @@ body {
 }
 
 .title {
-  width:400px;
   background: #e3f4ff;
   margin: 16px;
   margin-top: 0;
@@ -36,5 +36,6 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  display:block;
   
 }
