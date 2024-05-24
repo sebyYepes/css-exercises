@@ -5,12 +5,12 @@ body {
 
 .card {
   width: 400px;
-  background: black;
+  background: white;
   margin: 32px auto;
 }
 
 .title {
-  background: black;
+  background: white;
   margin-top: 30px;
   margin: 30px;
 }
@@ -26,4 +26,5 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  
 }
