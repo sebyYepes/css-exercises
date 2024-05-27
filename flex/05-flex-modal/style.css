@@ -23,6 +23,7 @@ body {
 }
 .modal .title{
   display:flex;
+  flex-shrink: auto;
 }
 
 
