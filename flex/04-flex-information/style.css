@@ -2,20 +2,14 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
-.container{
-  display: flex;
-  justify-content:space-between;
-  align-items: center;
+img {
+  width: 100px;
+  height: 100px;
 }
-.image{
-  height: 20px;
-  width: 20px;
-}
+
 .title {
   font-size: 36px;
   font-weight: 900;
-  display: flex;
-  align-content: center;
 }
 
 /* do not edit this footer */
