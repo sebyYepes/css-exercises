@@ -20,11 +20,13 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  margin: 8px;
 }
 .modal .title{
   display:flex;
   justify-content: space-around;
   flex-shrink: auto;
+  margin-top: 8px;
 }
 
 
@@ -43,6 +45,7 @@ body {
 
 .header{
   font-weight: bold;
+  font-size: 25px;
 }
 
 .close-button {
