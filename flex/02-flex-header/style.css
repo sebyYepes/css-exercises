@@ -3,7 +3,7 @@
   background: papayawhip;
   display:flex; 
   justify-content: center;
-  align-content: center;
+  align-items: center;
 
 
 }
@@ -24,7 +24,7 @@ ul {
   list-style-type: none;
   display:flex; 
   gap: 8px;
-  align-items: center;
+
 }
 
 a {
