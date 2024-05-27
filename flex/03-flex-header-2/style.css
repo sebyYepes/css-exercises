@@ -39,6 +39,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  align-items: flex-end;
 }
 
 a {
