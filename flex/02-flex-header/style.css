@@ -16,7 +16,7 @@
   padding: 4px 32px;
   display:flex; 
   border: 10px solid papayawhip;
-  gap: 15px;
+  gap: 30px;
 }
 
 ul {
@@ -24,6 +24,7 @@ ul {
   list-style-type: none;
   display:flex; 
   gap: 8px;
+  align-items: center;
 }
 
 a {
