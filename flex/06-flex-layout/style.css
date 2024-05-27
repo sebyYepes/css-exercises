@@ -13,11 +13,11 @@ body {
 
 .left-links{
   display: flex;
-  justify-content: space-around;
+  gap: 8px;
 }
 .right-links{
   display: flex;
-  justify-content: space-around;
+  
 }
 
 img {
