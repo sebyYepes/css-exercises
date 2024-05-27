@@ -46,6 +46,7 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
+  flex-basis: 100px;
 }
 
 ul {
