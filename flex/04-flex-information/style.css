@@ -5,6 +5,7 @@ body {
 .images{
   display: flex;
   justify-content: center;
+  flex: 1;
 }
 
 .title {
