@@ -9,8 +9,13 @@ body {
 
 .header{
   display: flex;
-  text-decoration: none;
-  color:#ddd;
+}
+
+.left-links{
+  display: flex;
+}
+.right-links{
+  display: flex;
 }
 
 img {
