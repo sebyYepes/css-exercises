@@ -13,7 +13,7 @@ body {
 
 .left-links{
   display: flex;
-  gap: 8px;
+  gap: 24px;
 }
 .right-links{
   display: flex;
