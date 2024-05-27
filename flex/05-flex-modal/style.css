@@ -49,8 +49,8 @@ body {
 }
 
 .text{
-  margin-left: 60px;
-  margin-right: 60px;
+  margin-left: 62px;
+  margin-right: 62px;
 }
 
 .close-button {
@@ -69,8 +69,9 @@ body {
 }
 
 .buttons{
+  margin-top: 12px;
   margin-bottom: 8px;
-  margin-left: 60px;
+  margin-left: 62px;
 }
 
 button {
