@@ -16,6 +16,11 @@ img {
 }
 .container{
   display: flex;
+
+}
+
+.image{
+  flex: 1;
 }
 
 /* do not edit this footer */
