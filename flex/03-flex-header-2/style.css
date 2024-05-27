@@ -59,8 +59,7 @@ ul {
   padding: 0;
   margin: 0;
 }
-.left
-.right
-{
+.left, .right{
   display :flex;
+  align-items: center;
 }
