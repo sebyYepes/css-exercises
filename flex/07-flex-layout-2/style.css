@@ -17,7 +17,6 @@ body {
 }
 .cards{
   display: flex;
-  flex-direction: column;
  }
 
  .half
