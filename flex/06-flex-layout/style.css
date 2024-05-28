@@ -11,6 +11,8 @@ body {
   display: flex;
   justify-content: space-between;
   margin: 8px;
+  text-decoration: none;
+  color: #ddd;
 }
 
 .left-links{
