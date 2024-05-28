@@ -21,7 +21,7 @@ body {
   flex-wrap: wrap;
  }
 
- .half
+ /* .half
  .full{
   display:flex;
   flex-direction: row;
@@ -31,7 +31,7 @@ body {
   display: flex;
   flex:1;
   
-}
+} */
 
 .footer {
   height: 72px;
