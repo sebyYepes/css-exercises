@@ -20,6 +20,11 @@ a{
   color: #ddd;
 }
 
+ul{
+  list-style: none;
+  display: flex;
+}
+
 .left-links{
   display: flex;
   gap: 24px;
