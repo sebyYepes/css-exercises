@@ -16,6 +16,10 @@ body {
   padding: 16px;
 }
 
+a{
+  text-decoration: none;
+  color: #ddd;
+}
 
 .left-links{
   display: flex;
@@ -26,6 +30,7 @@ body {
   display: flex;
   gap: 24px;
   justify-content: flex-end; 
+  margin-right: 10px;
   
 }
 
@@ -40,7 +45,9 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
   flex-direction: column;
 }
 
