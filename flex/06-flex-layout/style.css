@@ -36,11 +36,11 @@ img {
   
 }
 
-/* .content{
+.content{
   display: flex;
   justify-content: center;
   align-items: center;
-} */
+}
 
 button {
   font-family: Roboto, sans-serif;
