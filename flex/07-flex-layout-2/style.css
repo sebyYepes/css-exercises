@@ -19,6 +19,12 @@ body {
   display: flex;
   flex-direction: column;
  }
+
+ .half
+ .full{
+  display:flex;
+  flex-direction: row;
+ }
 .column{
   display: flex;
   
