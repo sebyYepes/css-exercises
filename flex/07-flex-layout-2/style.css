@@ -13,7 +13,7 @@ body {
   font-weight: 900;
   font-size: 32px;
   justify-content: center;
-  margin-left: 8px;
+  padding: 16px;
 }
 
 .column{
