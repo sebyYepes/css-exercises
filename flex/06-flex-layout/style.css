@@ -16,8 +16,6 @@ body {
 .left-links{
   display: flex;
   gap: 24px;
-  text-decoration: none;
-  color: #ddd;
 }
 .right-links{
   display: flex;
@@ -28,6 +26,11 @@ body {
 
 img {
   width: 600px;
+}
+
+.content{
+  display: flex;
+  justify-content: center;
 }
 
 button {
