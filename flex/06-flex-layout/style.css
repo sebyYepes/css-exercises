@@ -11,13 +11,13 @@ body {
   display: flex;
   justify-content: space-between;
   margin: 8px;
-  text-decoration: none;
-  color: #ddd;
 }
 
 .left-links{
   display: flex;
   gap: 24px;
+  text-decoration: none;
+  color: #ddd;
 }
 .right-links{
   display: flex;
