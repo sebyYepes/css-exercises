@@ -20,12 +20,13 @@ body {
 .left-links{
   display: flex;
   gap: 24px;
-  margin-right: 8px;
+
 }
 .right-links{
   display: flex;
   gap: 24px;
   justify-content: flex-end; 
+  margin-right: 8px;
 }
 
 img {
